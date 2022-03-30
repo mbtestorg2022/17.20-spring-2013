@@ -129,4 +129,4 @@ In preparation for the long paper, the following assignment was given:
 Related Resource
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[APSA Style Manual for Political Science (PDF - 2.0MB)](https://connect.apsanet.org/stylemanual/)
+[APSA Style Manual for Political Science (PDF - 2.0MB)](https://connect.apsanet.org/stylemanual/)

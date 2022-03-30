@@ -400,11 +400,11 @@ Political Participation
 
 Gerber, Alan S., Donald P. Green, and Christopher W. Larimer. "[Social Pressure and Voter Turnout: Evidence from a Large-Scale Field Experiment](http://isps.yale.edu/research/publications/isps08-001#.Uh7twz8cXcw)." _American Political Science Review_ 102, no. 1 (2008): 33–48.
 
-Verba, Sidney, Kay Lehman Schlozman, and Henry E. Brady. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Big Tilt: Participatory Inequality in America." (PDF - 1.4MB)](http://www.ou.edu/cls/online/LSTD1133/pdf/CivicParticipation3.pdf) _The American Prospect_ 32, May/June 1997, 74–80.
+Verba, Sidney, Kay Lehman Schlozman, and Henry E. Brady. ["The Big Tilt: Participatory Inequality in America." (PDF - 1.4MB)](http://www.ou.edu/cls/online/LSTD1133/pdf/CivicParticipation3.pdf) _The American Prospect_ 32, May/June 1997, 74–80.
 
-Citrin, Jack, Eric Schickler, and John Sides. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What if Everyone Voted? Simulating the Impact of Increased Turnout in Senate Elections." (PDF)](http://home.gwu.edu/~jsides/turnout.pdf) _American Journal of Political Science_ 47, no. 1 (2003): 75–90.
+Citrin, Jack, Eric Schickler, and John Sides. ["What if Everyone Voted? Simulating the Impact of Increased Turnout in Senate Elections." (PDF)](http://home.gwu.edu/~jsides/turnout.pdf) _American Journal of Political Science_ 47, no. 1 (2003): 75–90.
 
-Broockman, David E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Distorted Communication, Unequal Representation: Constituents Communicate Less to Representatives Not of Their Race." (PDF)](https://www.jstor.org/stable/24363487?seq=1#metadata_info_tab_contents) Working paper, 2013.
+Broockman, David E. ["Distorted Communication, Unequal Representation: Constituents Communicate Less to Representatives Not of Their Race." (PDF)](https://www.jstor.org/stable/24363487?seq=1#metadata_info_tab_contents) Working paper, 2013.
 
 
 {{< tdclose >}}
